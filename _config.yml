@@ -1,12 +1,12 @@
 title: PcapPlusPlus
 email: pcapplusplus@gmail.com
 description: A multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/v2008" # the subpath of your site, e.g. /blog
 url: "https://pcapplusplus.github.io"
 twitter_username: seladb
 github_username:  seladb
-logo_source: /resources/logo_white.png
-logo_width: 180
+logo_source: /resources/logo_white_v2008.png
+logo_width: 235
 
 # Build settings
 markdown: kramdown
@@ -26,7 +26,7 @@ top_navigation_enabled: true
 # PcapPlusPlus specific variables
 pcapplusplus_ver_num: 20.08
 pcapplusplus_ver: v20.08
-is_new_release: false
+is_new_release: true
 
 # Google Analytics Tracking Id
 ga_tracking: UA-74037205-2
